@@ -40,11 +40,12 @@ This project is being created with the sole purpose of being modified into my fi
   - Message objects can be modified at the maximum of 5 minutes from its creation
     
   - Administrator modification page that allows administrators to create, modify and delete Type 2 objects 
-  <br /><strong>_Requires Authentication and the option to create and modify Type 2 Objects, should only appear to tier 3 administrators_</strong>
-  <br /><strong>_Requires Authentication and the option to delete Type 2 Objects, should only appear to tier 2 administrators_</strong>
+  <br /><strong>_Requires Authentication 
+  <br />the option to create and modify Type 2 Objects, should only appear to tier 3 administrators
+  <br />the option to delete Type 2 Objects, should only appear to tier 2 administrators_</strong>
   
   - Administrator user management page that allows the administrator to modify and delete users and other administrators
-  <br /><strong>_(Requires Authentication and Tier 1 Authorization)_</strong>
+  <br /><strong>_Requires Authentication and Tier 1 Authorization_</strong>
   
   - when a user is deleted all Type 1 Objects associated to him should recursively deleted by a trigger.
   
